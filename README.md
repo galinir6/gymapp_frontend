@@ -45,8 +45,6 @@ GymApp is a mobile application designed to help users track their workouts and p
 
 2. Navigate to the frontend directory and install the dependencies:
 
-   
-    cd workouts
     npm install
     
 
