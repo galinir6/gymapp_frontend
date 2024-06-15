@@ -27,36 +27,16 @@ GymApp is a mobile application designed to help users track their workouts and p
 - Python
 - MongoDB
 
-### Backend Setup
 
-1. Clone the repository:
+
+
+   
+### Frontend Setup
+
+    Clone the repository:
 
     
     git clone https://github.com/galinir6/gymapp_frontend.git
-    cd gymapp/backend
-   
-
-2. Create a virtual environment and activate it:
-
-   
-    python -m venv venv
-    `venv\Scripts\activate`
-    
-
-3. Install the dependencies:
-
-    
-    pip install -r requirements.txt
-    
-
-4. Connect to your MongoDB server
-
-    
-5. Start the Flask server:
-
-    py app.py
-
-### Frontend Setup
 
 1. Install the Expo CLI if you haven't already:
 
